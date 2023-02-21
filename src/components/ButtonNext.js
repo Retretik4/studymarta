@@ -1,5 +1,13 @@
+// import generateRandomNum from '../functions/generateRandomNum';
+// import { useState } from 'react';
+
 const ButtonNext = () => {
-  return <button>След. слово</button>;
+  // const [randomNum, setRandomNum] = useState('');
+
+  return 1;
+  // <button onClick={generateRandomNum()} title="Submit">
+  //   След. слово {generateRandomNum}
+  // </button>
 };
 
 export default ButtonNext;
